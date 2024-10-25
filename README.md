@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [this portfolio](https://github.com/JuanSHincapie/portfolio/)
 
-- 🌱 I’m currently working with ** React and Micro-frontend with Single-SPA**
+- 🌱 I’m currently working with **React and Micro-frontend with Single-SPA**
 
 - 💬 Ask me about **React**
 
